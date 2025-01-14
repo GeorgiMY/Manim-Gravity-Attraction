@@ -1,4 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:E:/Programming/Projects/3-body Problem Animation/media/videos/main/1080p60/partial_movie_files/Ball/3977891868_2176006389_223132457.mp4'
-file 'file:E:/Programming/Projects/3-body Problem Animation/media/videos/main/1080p60/partial_movie_files/Ball/2852726489_2659322188_3290109154.mp4'
-file 'file:E:/Programming/Projects/3-body Problem Animation/media/videos/main/1080p60/partial_movie_files/Ball/2852726489_3583248859_3466658588.mp4'
